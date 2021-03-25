@@ -1,8 +1,5 @@
 <?php
   echo "Hello World!";
   echo "This is vijayshanthi";
-<<<<<<< HEAD
   echo "adding 3 rd commit":
-=======
->>>>>>> parent of 3ae8cc4 (version : 1.1)
 ?>
