@@ -1,5 +1,4 @@
 <?php
   echo "Hello World!";
   echo "This is vijayshanthi";
-  echo "adding new line for 2nd commit";
 ?>
